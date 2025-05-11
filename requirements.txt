@@ -1,0 +1,5 @@
+# File: requirements.txt
+# These are minimal dependencies needed to run the final project
+
+matplotlib
+pandas
