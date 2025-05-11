@@ -1,6 +1,4 @@
-
-# File: main.py
-
+#UI application
 from src.ui_app import Application
 
 if __name__ == "__main__":
