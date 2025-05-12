@@ -56,6 +56,6 @@ UI structure
 -The 'PA3_credentials.csv' file should contain the username and password pairs, separated by a comma, with one pair per line (e.g., 'username1,'password1')'
 - The 'PA3_patient.csv' file should have the following column headers: 'Patient_ID', 'Visit_ID', 'Visit_time', 'Visit_department', 'Race', 'Gender', 'Ethnicity', 'Age', 'Zip_code', 'Insurance', 'Chief_complaint', 'Note_ID', 'Note_type'.
 
-Made by AKHILA AMUDALA GANESH. 
+Made by **AKHILA AMUDALA GANESH**. 
 
    
