@@ -1,7 +1,6 @@
 **HI 741 Spring 2025 Final Project ---- CLINICAL DATA WAREHOUSE UI**
 
-             This project is a Tkinter-based python application designed for a local hospital's clinical data warehouse system. It provides a user-friendly graphical interface that allows hospital staff to manage patient records, access clinical notes, generate key statistics, and track software usage _ all based on their role
-   (admin, nurse, clinician, or management).
+             This project is a Tkinter-based python application designed for a local hospital's clinical data warehouse system. It provides a user-friendly graphical interface that allows hospital staff to manage patient records, access clinical notes, generate key statistics, and track software usage _ all based on their role (admin, nurse, clinician, or management).
    
    1.**Features**: 
 -Secure Login: with role-based access (admin, nurse, clinician, management)
