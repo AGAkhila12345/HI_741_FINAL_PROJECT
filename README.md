@@ -50,11 +50,13 @@ UI structure
 -The application window will open, prompting you to enter your username and password.
 -After successful authentication, the main.menu will be displayed based in your user role.
 -Navigate through the available options using the buttons and follow the prompts to perform various actions.
--The 'usage_log.csv' file will be updated with user actions and timestamps.
+-The 'PA3_Notes.csv' file will be updated with user actions and timestamps.
 
 **Note**
+- To access the UI, please have the following files in a single folder.
+- Files needed: PA3_credentials.csv, PA3_data.csv, PA3_Notes.csv, authentication.py, patient_record.py, UI.py, user.py
 -The 'PA3_credentials.csv' file should contain the username and password pairs, separated by a comma, with one pair per line (e.g., 'username1,'password1')'
-- The 'PA3_patient.csv' file should have the following column headers: 'Patient_ID', 'Visit_ID', 'Visit_time', 'Visit_department', 'Race', 'Gender', 'Ethnicity', 'Age', 'Zip_code', 'Insurance', 'Chief_complaint', 'Note_ID', 'Note_type'.
+- The 'PA3_data.csv' file should have the following column headers: 'Patient_ID', 'Visit_ID', 'Visit_time', 'Visit_department', 'Race', 'Gender', 'Ethnicity', 'Age', 'Zip_code', 'Insurance', 'Chief_complaint', 'Note_ID', 'Note_type'.
 
 Made by **AKHILA AMUDALA GANESH**. 
 
